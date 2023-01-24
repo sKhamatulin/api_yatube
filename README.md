@@ -16,7 +16,7 @@
 3) Запустить
 
 ```
-git clone github.com/sKhamatulin/hw05_final
+git clone github.com/sKhamatulin/api_yatube
 pip install -r requirements.txt
 python manage.py runserver
 ```
