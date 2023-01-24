@@ -1,2 +1,1 @@
-# api_yatube
-api_yatube
+API для проекта YaTube
