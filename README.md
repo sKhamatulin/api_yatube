@@ -7,7 +7,7 @@
 ```
     python==3
     Django==2.2
-    DjangoRestFramework==3.12.4
+    DjangoRestFramework==3.12
 ```
 
 ### Порядок установки.
